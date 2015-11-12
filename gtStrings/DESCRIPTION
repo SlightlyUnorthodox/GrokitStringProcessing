@@ -1,0 +1,10 @@
+Package: gtStrings
+Type: Package
+Title: String manipulation functions for Grokit
+Version: 1.0
+Date: 2015-11-12
+Author: Dax Gerts
+Maintainer: Dax Gerts <gerts.dax1@gmail.com>
+Depends: gtBase, gtJson
+Description: This package contains development work for string processing functions
+License: Proprietary
